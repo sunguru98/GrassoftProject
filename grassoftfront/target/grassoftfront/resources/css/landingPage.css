@@ -1,0 +1,33 @@
+html{
+	height: 100%;
+}
+.allignment {
+	text-align: center;
+	padding-top: 10%;
+	font-family: Pacifico;
+	color: #F97300;
+}
+.btn{
+	width:200px;
+	height:30%;
+	font-size: 25px;
+	background-color: yellow;
+	border-color: yellow;
+	color: green;
+}
+ h1 {
+    font-size: 72px;
+}
+h3{
+	margin-top:20px;
+	font-size: 50px;
+}
+hr{
+	width:35%;
+}
+body{
+	background:url("resources\\imaages\\img8.jpg"); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}

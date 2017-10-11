@@ -1,0 +1,14 @@
+com\gs\grassoft\daoimpl\UserDAOImpl.class
+com\gs\grassoft\model\SupplierCredentials.class
+com\gs\grassoft\dao\UserDAO.class
+com\gs\grassoft\App.class
+com\gs\grassoft\model\CategoryCredentials.class
+com\gs\grassoft\dao\SupplierDAO.class
+com\gs\grassoft\daoimpl\SupplierDAOImpl.class
+com\gs\grassoft\dao\CategoryDAO.class
+com\gs\grassoft\daoimpl\CategoryDAOImpl.class
+com\gs\grassoft\model\UserCredentials.class
+com\gs\grassoft\dao\ProductDao.class
+com\gs\grassoft\daoimpl\ProductDAOImpl.class
+com\gs\grassoft\config\DataBaseConfiguration.class
+com\gs\grassoft\model\ProductCredentials.class

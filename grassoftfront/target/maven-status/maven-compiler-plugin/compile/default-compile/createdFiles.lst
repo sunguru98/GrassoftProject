@@ -1,0 +1,5 @@
+com\gs\grassoftfront\controller\HomeController.class
+com\gs\grassoftfront\controller\CategoryController.class
+com\gs\grassoftfront\controller\SupplierController.class
+com\gs\grassoftfront\controller\UserController.class
+com\gs\grassoftfront\controller\ProductController.class
